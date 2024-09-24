@@ -1,0 +1,27 @@
+.kanban-board {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .kanban-column {
+    flex: 1;
+    background: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .ticket-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
+  .display-options {
+    margin-bottom: 20px;
+  }
+  
+  .display-options label {
+    margin-right: 20px;
+  }
